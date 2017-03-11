@@ -1,0 +1,6 @@
+Eran Peled
+303174890
+
+g++ EX1.cpp FileIO.cpp Folder.cpp ParsedInput.h Terminal.cpp -o myVFS
+
+used for compiling...
